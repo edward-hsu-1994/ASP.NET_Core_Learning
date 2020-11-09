@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Learning_CookieAndSession", "Learning_CookieAndSession\Learning_CookieAndSession.csproj", "{F22DBA2C-755A-421C-B0D1-7C6F928827AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F22DBA2C-755A-421C-B0D1-7C6F928827AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F22DBA2C-755A-421C-B0D1-7C6F928827AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F22DBA2C-755A-421C-B0D1-7C6F928827AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F22DBA2C-755A-421C-B0D1-7C6F928827AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A385BD8-2645-4943-91E8-76DB8EC93540}
+	EndGlobalSection
+EndGlobal
