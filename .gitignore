@@ -340,3 +340,4 @@ ASALocalRun/
 healthchecksdb
 FU.ImageSpace.Web/Files/
 FU.ImageSpace.Web/Databases/
+Learning_EFCore/Learning_EFCore/appsettings.Development.json
